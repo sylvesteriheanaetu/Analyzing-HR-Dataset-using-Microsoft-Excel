@@ -10,7 +10,7 @@
 - [Data Analysis](📊#data-analysis)
 - [Findings/Insights](📝#findings/insights)
 - [Dashboard](📈#dashboard)
-- [Conclusion](✋#conclusion)
+- [Conclusion](#conclusion)
 
 ### 📚 Project Overview
 This data analysis project aims at providing insights into the performance of a company over the past years. By analyzing various aspects of the dataset, we seek to identify key metrics, trends, and proving insights into employee satisfaction, retention, work-life balance, gender diversity and gain a deeper understanding of the company's HR Department performance.
@@ -72,5 +72,5 @@ The image of the dashboard efficiently designed to show key findings is displaye
 
 ![finalDash](https://github.com/user-attachments/assets/78da7565-1358-4771-aaf8-8bd0d2c34db1)
 
-### ✋ Conclusion
+###  Conclusion
 Working on this project has further deepened my understanding in data analytics and particularly in the Human Resource department. Key metrics, trends/patterns and insights were drawn, aiding data-driven decision making by the stake holders.
