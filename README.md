@@ -15,6 +15,12 @@
 ###  Project Overview
 This data analysis project aims at providing insights into the performance of a company over the past years. By analyzing various aspects of the dataset, we seek to identify key metrics, trends, and proving insights into employee satisfaction, retention, work-life balance, gender diversity and gain a deeper understanding of the company's HR Department performance.
 
+
+![HR_Dashboard](https://github.com/user-attachments/assets/6345385a-3785-4f6a-bc6d-66a874b5baa3)
+
+*Image of the final dashboard designed.*
+
+
 ###  Data Source
 The dataset used for this analysis is the "HR_dataset.xlsx" file.
 
@@ -83,7 +89,7 @@ Data Analytical Expressions (DAX) calculations/measures were adopted in the dete
 - **𝐒𝐚𝐥𝐚𝐫𝐲 paid:** The highest salary was in October ($54,872), while the lowest was in February ($5,331), likely due to seasonal fluctations.
 
 ###  Dashboard
-The image of the dashboard efficiently designed to show key findings is displayed below:
+The image of the dashboard efficiently designed to show key findings as displayed below:
 
 ![finalDash](https://github.com/user-attachments/assets/78da7565-1358-4771-aaf8-8bd0d2c34db1)
 
