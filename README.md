@@ -2,15 +2,15 @@
 
 ## 📜 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tool](#tool)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Findings/Insights](#findings/insights)
-- [Dashboard](#dashboard)
-- [Conclusion](#conclusion)
+- [Project Overview](📚#project-overview)
+- [Data Source](📑#data-source)
+- [Tool](⚒️#tool)
+- [Data Cleaning and Preparation](🧤#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](✍️#exploratory-data-analysis)
+- [Data Analysis](📊#data-analysis)
+- [Findings/Insights](📝#findings/insights)
+- [Dashboard](📈#dashboard)
+- [Conclusion](✋#conclusion)
 
 ### 📚 Project Overview
 This data analysis project aims at providing insights into the performance of a company over the past years. By analyzing various aspects of the dataset, we seek to identify key metrics, trends, and proving insights into employee satisfaction, retention, work-life balance, gender diversity and gain a deeper understanding of the company's HR Department performance.
@@ -67,7 +67,7 @@ Data Analytical Expressions (DAX) calculations/measures were adopted in the dete
 - **E𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝:** Most employees hold Bachelor's degrees **(473)**, followed by Master's degrees **(340)**, College diplomas **(238)**, and below college level **(139)**. A small number **(4)** have Doctorates, indicating a preference for undergraduate education.
 - **𝐒𝐚𝐥𝐚𝐫𝐲 paid:** The highest salary was in October ($54,872), while the lowest was in February ($5,331), likely due to seasonal fluctations.
 
-### 📊📈 Dashboard
+### 📈 Dashboard
 The image of the dashboard efficiently designed to show key findings is displayed below:
 
 ![finalDash](https://github.com/user-attachments/assets/78da7565-1358-4771-aaf8-8bd0d2c34db1)
